@@ -8,6 +8,6 @@ aluno4 = input('Informe o nome do quarto aluno: ' )
 
 lista_al = {1: aluno1, 2: aluno2, 3: aluno3, 4: aluno4}
 
-sorteado = random.randrange(1,4)
+sorteado = random.randrange(1,5)
 
 print ("Quem vai apagar o quadro e o aluno: ", lista_al[sorteado])

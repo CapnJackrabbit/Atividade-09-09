@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f49a60c9-8bea-4533-a741-8900bc0d2285</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ordem.py</StartupFile>
+    <StartupFile>sorteio.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
